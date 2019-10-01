@@ -1,0 +1,34 @@
+div {
+	color:#00d7ff;
+	font-size: 40px;
+}
+
+#ss {
+	color:#a357f0;
+	font-size: 30px
+}
+#aa {
+	color: purple;
+	font-size: 30px;
+}
+
+div1 {
+	color:rgba(0, 0, 0, 0.5);
+	border:1px solid #000000;
+	font-size: 30px;
+	
+}
+
+#ssa {
+	color:#1600ff;
+	font-size: 32px;
+}	
+
+.voskl {
+	color: #1600ff;
+	font-size: 30px;
+}
+
+.kosmos {
+	font-size: 30px;
+}
